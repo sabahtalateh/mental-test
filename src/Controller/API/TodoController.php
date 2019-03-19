@@ -42,7 +42,7 @@ class TodoController extends ApiController
     }
 
     /**
-     * @Route("/todo/list", methods={"GET"})
+     * @Route("/todo", methods={"GET"})
      * @param Request $request
      * @return JsonResponse
      */

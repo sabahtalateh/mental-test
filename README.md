@@ -67,3 +67,6 @@ curl -X POST \
   {{url}}/api/v1/todo/{task_id} \
   -H 'Authorization: Bearer {token}'
 ```
+
+### API Endpoints Postman Collection
+https://web.postman.co/collections/1576355-bdd50073-497c-4e79-bbff-98a501090c30?workspace=1b4b23a9-967f-4327-8017-46678d2cffb7
